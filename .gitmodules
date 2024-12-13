@@ -1,0 +1,9 @@
+[submodule "libs/Clock-SoulBind-Points"]
+	path = libs/Clock-SoulBind-Points
+	url = https://github.com/peter-jim/Clock-SoulBind-Points.git
+[submodule "vlc-js"]
+	path = vlc-js
+	url = https://github.com/peter-jim/vlc-js.git
+[submodule "hvlc-js"]
+	path = hvlc-js
+	url = git@github.com:peter-jim/hvlc-js.git
