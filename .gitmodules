@@ -7,3 +7,6 @@
 [submodule "hvlc-js"]
 	path = hvlc-js
 	url = git@github.com:peter-jim/hvlc-js.git
+[submodule "causality-client-js"]
+	path = causality-client-js
+	url = git@github.com:peter-jim/causality-client-js.git
